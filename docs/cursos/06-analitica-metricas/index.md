@@ -1,5 +1,31 @@
 # Curso 06: Analítica y Métricas para CM
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción a las Métricas | Por qué los números importan en CM |
+| 02 | Métricas Básicas Explicadas | Engagement, reach, impressions, y más |
+| 03 | Meta Business Suite en Profundidad | Cómo leer y navegar las analytics de Meta |
+| 04 | KPIs para Joyería y Lujo | Métricas específicas para tu especialización |
+| 05 | Cómo Interpretar Datos | Pasar de números a insights accionables |
+| 06 | Crear Reportes para Clientes | Plantillas y estructura profesional |
+| 07 | Optimizar Estrategia con Datos | Usar analytics para mejorar resultados |
+| 08 | Herramientas de Análisis | Las mejores apps gratuitas para celular |
+
+## ▶️ Navegación rápida
+
+- 🎀 [Módulo 01: Introducción a las Métricas](./modulo-01-introduccion-metricas.md)
+- 💗 [Módulo 02: Métricas Básicas Explicadas](./modulo-02-metricas-basicas.md)
+- 🌸 [Módulo 03: Meta Business Suite en Profundidad](./modulo-03-meta-business-analytics.md)
+- 🎀 [Módulo 04: KPIs para Joyería y Lujo](./modulo-04-kpis-joyeria.md)
+- 💗 [Módulo 05: Cómo Interpretar Datos](./modulo-05-interpretar-datos.md)
+- 🌸 [Módulo 06: Crear Reportes para Clientes](./modulo-06-crear-reportes.md)
+- 🎀 [Módulo 07: Optimizar Estrategia con Datos](./modulo-07-optimizar-estrategia.md)
+- 💗 [Módulo 08: Herramientas de Análisis](./modulo-08-herramientas-analisis.md)
+
+---
+
 ## Por qué este curso
 
 ```

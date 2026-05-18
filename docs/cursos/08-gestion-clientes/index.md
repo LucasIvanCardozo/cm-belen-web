@@ -8,6 +8,34 @@
 
 ---
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Onboarding de Clientes | El proceso de bienvenida que fideliza |
+| 02 | Comunicación Profesional | Cómo hablar con tu cliente sin perder profesionalismo |
+| 03 | Expectativas y Límites | Establecer límites claros desde el día uno |
+| 04 | Propuestas y Precios | Cómo cobrar lo que valés |
+| 05 | Contratos | Protegé tu trabajo legalmente |
+| 06 | Gestión Multi-Cliente | Organizá tu caos sin morir en el intento |
+| 07 | Manejo de Dificultades | Cuando las cosas se ponen feas |
+| 08 | Relaciones a Largo Plazo | Construí un negocio, no solo clientes |
+| 09 | Herramientas de Gestión | Apps y sistemas para organizarte |
+
+## ▶️ Navegación rápida
+
+- 🎀 [Módulo 01: Onboarding de Clientes](./modulo-01-onboarding.md)
+- 💗 [Módulo 02: Comunicación Profesional](./modulo-02-comunicacion-profesional.md)
+- 🌸 [Módulo 03: Expectativas y Límites](./modulo-03-expectativas-limites.md)
+- 🎀 [Módulo 04: Propuestas y Precios](./modulo-04-propuestas-precios.md)
+- 💗 [Módulo 05: Contratos](./modulo-05-contratos.md)
+- 🌸 [Módulo 06: Gestión Multi-Cliente](./modulo-06-gestion-multicliente.md)
+- 🎀 [Módulo 07: Manejo de Dificultades](./modulo-07-manejo-dificultades.md)
+- 💗 [Módulo 08: Relaciones a Largo Plazo](./modulo-08-relaciones-largo-plazo.md)
+- 🌸 [Módulo 09: Herramientas de Gestión](./modulo-09-herramientas-gestion.md)
+
+---
+
 ## 📋 Sobre este Curso
 
 Este curso te prepara para una de las habilidades más importantes y menos enseñadas en el mundo del Community Management: **cómo gestionar clientes de forma profesional**.

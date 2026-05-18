@@ -1,182 +1,99 @@
-# Curso 04: Fotografía de Producto para Joyería
+---
+title: Curso 04 - Fotografía de Producto
+description: Domina la fotografía de joyería desde tu celular
+---
 
-## Conviértete en Fotógrafa de Joyería con tu Celular
+# 🎀 Curso 04: Fotografía de Producto
+
+**Hacete la fotógrafa que tu marca necesita** 📸💗
 
 ---
 
-> **"Una foto de joyería puede vender o condemnar un producto. En 2026, con un celular y $30, podés lograr resultados profesionales."**
+> *"En joyería, una foto puede valer más que mil palabras. Aprendé a hacerlas valer."* 🌸
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📚 Descripción
 
-1. [Qué vas a aprender](#qué-vas-a-aprender)
-2. [Por qué la fotografía de joyería es diferente](#por-qué-la-fotografía-de-joyería-es-diferente)
-3. [Equipo necesario](#equipo-necesario)
-4. [Estructura del curso](#estructura-del-curso)
-5. [Antes de empezar](#antes-de-empezar)
+La fotografía de producto es **crucial** en joyería y lujo. En este curso vas a aprender a tomar fotos profesionales con tu celular, dominar la luz natural, crear setups caseros y editar para Instagram.
 
----
+**Después de este curso vas a poder:**
 
-## Qué vas a aprender
-
-### Al finalizar este curso vas a poder:
-
-```
-✅ Dominar la fotografía de joyería con tu celular
-✅ Crear setups de iluminación profesionales por menos de $30
-✅ Fotografiar diferentes materiales (oro, plata, piedras, perlas)
-✅ Capturar el brillo y destellos de las joyas
-✅ Editar fotos de joyería con apps gratuitas
-✅ Armar una grilla de Instagram visualmente coherente
-✅ Reducir el tiempo de sesiones de fotos a la mitad
-```
+- ✅ Tomar fotos profesionales de joyería con tu celular
+- ✅ Dominar la luz natural en cualquier espacio
+- ✅ Crear setups fotográficos caseros
+- ✅ Fotografiar diferentes materiales (oro, plata, gemas)
+- ✅ Editar fotos para realzar sin distorsionar
+- ✅ Presentar tu producto para impacto máximo
 
 ---
 
-## Por qué la fotografía de joyería es diferente
+## 📚 Módulos
 
-### Lo que hace única a la joyería:
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción a la Fotografía | Conceptos básicos |
+| 02 | Equipo Básico | Qué necesitás (spoiler: tu celular alcanza) |
+| 03 | Luz Natural | Dominar la fuente gratuita más linda |
+| 04 | Configuración de Cámara | Ajustes para joyería |
+| 05 | Setup Casero | Creá un mini estudio en casa |
+| 06 | Técnicas de Fotografía | Ángulos, composiciones, trucos |
+| 07 | Fotografiar Materiales | Oro, plata, gemas, perlas |
+| 08 | Edición Básica | Apps y técnicas para realzar |
+| 09 | Presentación para Instagram | Formatos y optimización |
 
-```
-DESAFÍOS:
-├── Tamaño pequeño → necesita macro
-├── Metales reflectivos → capturan TODO
-├── Piedras transparentes → muestran el fondo
-├── Brillo intenso → puede sobreexponer
-├── Detalles importantes → cada ángulo importa
-└── Color exacto → debe representar la realidad
-```
+## ▶️ Navegación rápida
 
-### Por qué la mayoría falla:
-
-```
-❌ Usa flash directo → sobreexpone y crea sombras duras
-❌ Fotografía en cualquier momento → la luz importa
-❌ No usa fondo correcto → distracciones
-❌ Edita demasiado → pierde realismo
-❌ No captura detalles → el cliente no ve lo que compra
-```
-
-### Lo que vos vas a lograr:
-
-```
-✅ Iluminación suave y difusa
-✅ Fondos limpios y profesionales
-✅ Brillo natural sin sobreexposición
-✅ Detalles nítidos en piedras y grabados
-✅ Colores fieles a la realidad
-✅ Workflow eficiente de sesión a publicación
-```
+- [Módulo 01: Introducción a la Fotografía](./modulo-01-introduccion-fotografia.md) 🎀
+- [Módulo 02: Equipo Básico](./modulo-02-equipo-basico.md) 🎀
+- [Módulo 03: Luz Natural](./modulo-03-luz-natural.md) 🎀
+- [Módulo 04: Configuración de Cámara](./modulo-04-configuracion-camara.md) 🎀
+- [Módulo 05: Setup Casero](./modulo-05-setup-casero.md) 🎀
+- [Módulo 06: Técnicas de Fotografía](./modulo-06-tecnicas-fotografia.md) 🎀
+- [Módulo 07: Fotografiar Materiales](./modulo-07-fotografiar-materiales.md) 🎀
+- [Módulo 08: Edición Básica](./modulo-08-edicion-basica.md) 🎀
+- [Módulo 09: Presentación para Instagram](./modulo-09-presentacion-instagram.md) 🎀
 
 ---
 
-## Equipo necesario
-
-### 🎯 Inversión Total: Menos de $30
-
-| Elemento       | Opción Económica                 | Opción Recomendada              | Costo     |
-| -------------- | -------------------------------- | ------------------------------- | --------- |
-| Celular        | Ya tenés ✅                      | iPhone 13+ o Samsung S21+       | $0        |
-| Trípode        | Trípode de celular básico        | Trípode con brazo flexible      | $10-15    |
-| Foam Board     | Tablas de espuma blancas         | Paquete de 3 tablas             | $3-5      |
-| Reflector DIY  | Cartón forrado en papel aluminio | Panel defoam con lado reflector | $2-3      |
-| Fondo          | sábana blanca                    | Cartulina blanca 70x100cm       | $0-5      |
-| App de edición | Snapseed (gratis)                | Lightroom Mobile (gratis)       | $0        |
-| **TOTAL**      |                                  |                                 | **$5-30** |
-
-### Lo que NO necesitás:
+## 💎 El Desafío de Fotografiar Joyería
 
 ```
-❌ Cámara profesional
-❌ Estudio de fotografía
-❌ Luces de estudio costosas
-❌ Programas de edición de escritorio
-❌ Adobe Photoshop
+POR QUÉ ES DIFÍCIL:
+
+• Objetos pequeños necesitan macro
+• El brillo puede sobreexponer
+• Los reflejos son traicioneros
+• Cada metal tiene su comportamiento
+• Las gemas necesitan luz específica
+
+PERO:
+
+• Tu celular puede hacerlo
+• Con la técnica correcta
+• Sin gastar fortuna en equipos
 ```
 
 ---
 
-## Estructura del curso
+## 🛠️ Qué Vas a Aprender
 
-### Módulos:
-
-| Módulo | Tema                    | Qué vas a aprender                 |
-| ------ | ----------------------- | ---------------------------------- |
-| 01     | Introducción            | Por qué la foto de joyería importa |
-| 02     | Equipo Básico           | Todo lo que necesitás (budget $30) |
-| 03     | Luz Natural             | Dominar la luz del sol             |
-| 04     | Configuración de Cámara | Ajustes de celular para joyería    |
-| 05     | Setup Casero            | Cómo armar tu estudio DIY          |
-| 06     | Técnicas de Fotografía  | Ángulos, composiciones, flat lay   |
-| 07     | Fotografiar Materiales  | Oro, plata, piedras, perlas        |
-| 08     | Edición Básica          | Snapseed, Lightroom paso a paso    |
-| 09     | Presentación para IG    | Grilla, formatos, carouseles       |
-
-### Recursos incluidos:
-
-- 📋 Lista de equipos con links
-- ✅ Checklist para sesiones de fotos
-- ⚡ Guía de edición rápida
+- **Luz natural** — La mejor fuente, gratis
+- **Reflectores caseros** — Foam blanco, cartulina
+- **Fondos** — Blanco puro, mármol, texturas
+- **Edición móvil** — Snapseed, Lightroom, VSCO
+- **Composición** — Regla de tercios, espacios negativos
 
 ---
 
-## Antes de empezar
+## ▶️ Empezar
 
-### Lo que necesitás tener:
-
-```
-REQUISITOS:
-├── Celular con cámara de al menos 12MP
-├── Acceso a una ventana con luz natural
-├── Espacio de mesa libre (1m x 1m mínimo)
-├── 2-3 horas disponibles para practicar
-└── Ganas de experimentar
-```
-
-### Tu primer objetivo:
-
-```
-SESIÓN 1 (hoy):
-1. Identificá la mejor ventana de tu casa
-2. Armá un setup básico con foam board
-3. Fotografiá 1 joya con 3 ángulos diferentes
-4. Editá 1 foto con los ajustes básicos
-5. Compará el antes y después
-
-Tiempo estimado: 1-2 horas
-```
+[Ir al Módulo 01: Introducción a la Fotografía](./modulo-01-introduccion-fotografia.md){ .md-button .md-button--primary } 🌸
 
 ---
 
-## Diferencia con otros cursos
-
-### Este curso es diferente porque:
-
-```
-✓ Específico para joyería (no fotografía general)
-✓ 100% mobile-first (todo desde tu celular)
-✓ Budget real de $30 (no $500+)
-✓ Enfoque en resultados para Instagram
-✓ Basado en las mejores prácticas de 2026
-✓ Incluye prompts de IA para ayudarte
-✓ Con ejemplos reales de joyería
-```
+[Volver a Cursos](../index.md) | [Anterior](../03-copywriting/index.md) | [Siguiente](../05-instagram-joyeria/index.md) :arrow_right:
 
 ---
 
-## Siguiente paso
-
-Empezá por el **Módulo 01: Introducción a la Fotografía de Joyería**
-
-Ahí vamos a cover por qué una buena foto puede increase tus ventas, qué separates a las fotos profesionales de las amateur, y los fundamentos que necesitás antes de tocar la cámara.
-
----
-
-**💡 Tip del día:**
-
-> _"La mejor cámara es la que tenés con vos. Una foto tomada con un celular bien iluminado y editada correctamente va a superar a una foto de cámara profesional con mala luz."_
-
----
-
-_[Empezar con Módulo 01: Introducción](./modulo-01-introduccion-fotografia.md)_
+*Curso diseñado para el programa de formación de Belen — CM especializada en joyería y lujo* 💗

@@ -9,6 +9,34 @@
 
 ---
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | El Algoritmo de Instagram 2026 | Cómo funciona realmente Instagram hoy y cómo usarlo a tu favor |
+| 02 | Estética y Grid | Cómo construir un perfil que enamora desde el primer scroll |
+| 03 | Pilares de Contenido | Los 5 pilares fundamentales para joyería y cómo balancearlos |
+| 04 | Estrategia de Reels | El formato rey de 2026 adaptado especialmente para joyería |
+| 05 | Stories que Convierten | Cómo usar Stories para crear comunidad y aumentar ventas |
+| 06 | Engagement y Comunidad | Estrategias para conectar con tu audiencia en el nicho de lujo |
+| 07 | Colaboraciones | Cómo hacer giveaways, partnerships e influencer marketing |
+| 08 | Análisis y Optimización | Leer métricas, entender qué funciona y ajustar estrategia |
+| 09 | Calendario Estratégico | Planificar un mes completo de contenido para joyería |
+
+## ▶️ Navegación rápida
+
+- 🎀 [Módulo 01: El Algoritmo de Instagram 2026](./modulo-01-algoritmo-instagram.md)
+- 💗 [Módulo 02: Estética y Grid](./modulo-02-estetica-grid.md)
+- 🌸 [Módulo 03: Pilares de Contenido](./modulo-03-contenido-pilares.md)
+- 🎀 [Módulo 04: Estrategia de Reels](./modulo-04-reels-joyeria.md)
+- 💗 [Módulo 05: Stories que Convierten](./modulo-05-stories-tactics.md)
+- 🌸 [Módulo 06: Engagement y Comunidad](./modulo-06-engagement-comunidad.md)
+- 🎀 [Módulo 07: Colaboraciones](./modulo-07-colaboraciones.md)
+- 💗 [Módulo 08: Análisis y Optimización](./modulo-08-analisis-optimizacion.md)
+- 🌸 [Módulo 09: Calendario Estratégico](./modulo-09-calendario-estrategico.md)
+
+---
+
 ## Qué vas a aprender en este curso
 
 Este curso te va a transformar en una experta en gestión de cuentas de Instagram para joyería y marcas de lujo. Vas a aprender:

@@ -4,6 +4,34 @@
 
 ---
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción a la Publicidad | Por qué y cuándo usar ads como CM |
+| 02 | Métodos para Publicar | Boost post vs Ads Manager |
+| 03 | Objetivos de Campaña | Qué querés lograr (ventas, leads, alcance) |
+| 04 | Público Objetivo | Cómo definir a quién le mostrás tus ads |
+| 05 | Presupuesto y Bidding | Cuánto gastar y cómo distribuir tu presupuesto |
+| 06 | Creativos de Anuncios | Cómo diseñar ads que funcionen para joyería |
+| 07 | Métricas de Publicidad | Medir resultados de tus campañas |
+| 08 | Optimización Básica | Mejorar tus ads con datos reales |
+| 09 | Publicidad Ética | Transparencia, confianza y buenas prácticas |
+
+## ▶️ Navegación rápida
+
+- 🎀 [Módulo 01: Introducción a la Publicidad](./modulo-01-introduccion-publicidad.md)
+- 💗 [Módulo 02: Métodos para Publicar](./modulo-02-metodos-publicar.md)
+- 🌸 [Módulo 03: Objetivos de Campaña](./modulo-03-objetivos-campana.md)
+- 🎀 [Módulo 04: Público Objetivo](./modulo-04-publico-objetivo.md)
+- 💗 [Módulo 05: Presupuesto y Bidding](./modulo-05-presupuesto-bidding.md)
+- 🌸 [Módulo 06: Creativos de Anuncios](./modulo-06-creativos-anuncios.md)
+- 🎀 [Módulo 07: Métricas de Publicidad](./modulo-07-metricas-publicidad.md)
+- 💗 [Módulo 08: Optimización Básica](./modulo-08-optimizacion.md)
+- 🌸 [Módulo 09: Publicidad Ética](./modulo-09-publicidad-etica.md)
+
+---
+
 ## Presentación del Curso
 
 ### Qué vas a aprender

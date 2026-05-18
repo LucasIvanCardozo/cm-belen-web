@@ -1,151 +1,88 @@
-# Curso 03: Copywriting para Community Manager
+---
+title: Curso 03 - Copywriting para Community Manager
+description: Aprende a escribir captions que venden y conectan
+---
 
-## Domina el Arte de Escribir que Vende
+# 🎀 Curso 03: Copywriting para CM
+
+**Escribí que vende, conectá que perdura** ✍️💗
 
 ---
 
-**Duración estimada:** 4 semanas  
-**Nivel:** Principiante a Intermedio  
-**Modalidad:** Autodidacta, desde el celular  
-**Requisito previo:** Curso 01 - Fundamentos de Community Manager
+> *"Las palabras correctas en el momento correcto pueden transformar un seguidor en cliente."* 🌸
 
 ---
 
-## 🎯 Qué vas a aprender
+## 📚 Descripción
 
-Al finalizar este curso vas a:
+Copywriting es el arte de escribir que persuade y conecta. En este curso vas a aprender a crear **captions irresistibles** para marcas de joyería y lujo, entender qué emociona a tu audiencia y dominar las fórmulas que funcionan.
 
-- ✅ Entender qué es copywriting y por qué es crucial para tu éxito como CM
-- ✅ Escribir captions que captan atención y generan engagement
-- ✅ Usar fórmulas probadas (AIDA, PAS, Storytelling) para estructurar textos
-- ✅ Conectar emocionalmente con audiencias de joyería y lujo
-- ✅ Crear llamadas a la acción que convierten
-- ✅ Integrar IA como asistente sin perder tu voz
-- ✅ Desarrollar una biblioteca de prompts optimizados para tu nicho
+**Después de este curso vas a poder:**
 
----
-
-## 📚 Estructura del Curso
-
-| Módulo | Tema                             | Duración sugerida |
-| ------ | -------------------------------- | ----------------- |
-| 01     | Introducción al Copywriting      | 3-4 días          |
-| 02     | Anatomía de un Caption Perfecto  | 4-5 días          |
-| 03     | Fórmulas Ganadoras para Captions | 5-6 días          |
-| 04     | Emociones en Joyería y Lujo      | 4-5 días          |
-| 05     | Storytelling para Marcas         | 5-6 días          |
-| 06     | Llamadas a la Acción             | 3-4 días          |
-| 07     | Hashtags Estratégicos            | 2-3 días          |
-| 08     | IA como Asistente de Escritura   | 4-5 días          |
-
-**Total estimado:** 5-6 semanas (trabajando 1-2 horas diarias)
+- ✅ Escribir captions que atrapen desde el primer renglón
+- ✅ Usar fórmulas probadas para diferentes tipos de posts
+- ✅ Conectar emocionalmente con amantes de la joyería
+- ✅ Contar historias que vendan sin vender
+- ✅ Crear llamadas a la acción que funcionen
+- ✅ Usar IA para potenciar tu escritura
 
 ---
 
-## 📋 Estructura de cada módulo
+## 📚 Módulos
 
-Cada módulo incluye:
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción al Copywriting | Fundamentos de escribir para vender |
+| 02 | Anatomía de un Caption | Partes esenciales de un post perfecto |
+| 03 | Fórmulas de Captions | Estructuras que funcionan |
+| 04 | Emociones en Joyería | Qué siente tu audiencia |
+| 05 | Storytelling | El poder de las historias |
+| 06 | Llamadas a la Acción | Cómo pedir que actúen |
+| 07 | Hashtags en Captions | Estrategia de etiquetado |
+| 08 | IA + Copywriting | Potenciá tu escritura con ChatGPT |
 
-1. **Objetivos de aprendizaje** — Qué sabrás hacer al terminar
-2. **Explicación teórica** — Conceptos con ejemplos reales
-3. **Ejemplos del nicho** — Casos específicos de joyería/lujo
-4. **Ejercicio práctico** — Actividad para aplicar lo aprendido
-5. **Resumen** — Puntos clave para recordar
-6. **Tarea de práctica** — Ejercicio para tu portfolio
+## ▶️ Navegación rápida
 
----
-
-## 🛠️ Herramientas que vas a usar
-
-| Herramienta               | Para qué                          |
-| ------------------------- | --------------------------------- |
-| Instagram/TikTok          | Práctica y publicación            |
-| Notas del celular         | Capturar ideas rápidas            |
-| ChatGPT/Claude            | Asistencia en generación de ideas |
-| Canva                     | Diseñar posts con tus captions    |
-| Later/Meta Business Suite | Programar contenido               |
-
----
-
-## 📦 Recursos incluidos
-
-```
-recursos/
-├── glosario-terminos.md          # Términos de copywriting
-├── formulas-captions.md          # Fórmulas con plantillas
-├── ejemplos-captions-joyeria.md  # 30+ ejemplos reales
-├── checklist-caption.md          # Tu lista de verificación
-└── banco-prompts-ia.md           # Prompts optimizados
-```
+- [Módulo 01: Introducción al Copywriting](./modulo-01-introduccion-copywriting.md) 🎀
+- [Módulo 02: Anatomía de un Caption](./modulo-02-anatomia-caption.md) 🎀
+- [Módulo 03: Fórmulas de Captions](./modulo-03-formulas-captions.md) 🎀
+- [Módulo 04: Emociones en Joyería](./modulo-04-emociones-joyeria.md) 🎀
+- [Módulo 05: Storytelling](./modulo-05-storytelling.md) 🎀
+- [Módulo 06: Llamadas a la Acción](./modulo-06-llamadas-accion.md) 🎀
+- [Módulo 07: Hashtags en Captions](./modulo-07-hashtags-captions.md) 🎀
+- [Módulo 08: IA + Copywriting](./modulo-08-ia-copywriting.md) 🎀
 
 ---
 
-## 🎓 Proyecto final del curso
+## 💎 Contexto: Joyería y Lujo
 
-Al terminar todos los módulos, vas a crear:
+Ejemplos específicos para el nicho:
 
-**Tu Primer Caption Profesional para Joyería**
-
-El proyecto consiste en:
-
-- 1 caption completo (300-500 palabras)
-- Usando fórmula AIDA o Storytelling
-- Con 5 hashtags estratégicos
-- Incluyendo CTA claro
-- Con análisis personal de por qué funciona
-
-Este será tu primer trabajo demostrable para tu portfolio.
+- Captions para collares dorados con historia
+- Storytelling para anillos de compromiso
+- Copy para marcas de lujo que no quieren parecer "de venta"
+- Emociones: elegancia, herencia, celebración, amor
 
 ---
 
-## ⚡ Contexto: Copywriting en 2026
+## 🛠️ Fórmulas que Vas a Aprender
 
-```
-ANTES (2019-2022):    AHORA (2024-2026):
-- Posts largos        - Captions concisos pero profundos
-- Solo texto          - Texto + stickers + reels
-- Sin IA              - IA como asistente (no reemplazo)
-- Fórmula única       - Múltiples fórmulas según contexto
-- engagement = likes  - engagement = conversación
-```
+- **AIDA** — Atención, Interés, Deseo, Acción
+- **PAS** — Problema, Agitación, Solución
+- **Star** — Situación, Tarea, Acción, Resultado
+- **The Hook** — Gancho irresistible
+- **Storytelling en 3 actos** — Narrativa completa
 
 ---
 
-## 📱 Cómo usar este curso desde el celular
+## ▶️ Empezar
 
-1. **Lee un módulo por día** (30-45 minutos)
-2. **Haz los ejercicios en el momento** (no postergues)
-3. **Practica en tu cuenta personal** después de cada módulo
-4. **Guarda los mejores captions** en una carpeta de notas
-5. **Comparte con tu mentor** si tenés feedback disponible
+[Ir al Módulo 01: Introducción al Copywriting](./modulo-01-introduccion-copywriting.md){ .md-button .md-button--primary } 🌸
 
 ---
 
-## ¿Por qué Copywriting es tu ventaja competitiva?
-
-```
-Habilidad de Copywriting
-├── No requiere equipmento especial ✅
-├── Funciona desde cualquier celular ✅
-├── Se mejora con práctica constante ✅
-├── Diferencia tu trabajo del 90% de CMs ✅
-└── Es transferible a cualquier nicho ✅
-```
-
-En el mercado latinoamericano, **la mayoría de los CM no saben escribir bien**. Dominar copywriting te posiciona arriba del promedio y justifica cobrar precios más altos.
+[Volver a Cursos](../index.md) | [Anterior](../02-herramientas-mobile/index.md) | [Siguiente](../04-fotografia-producto/index.md) :arrow_right:
 
 ---
 
-## 🚀 Tu próximo paso
-
-Empezá por el **Módulo 01: Introducción al Copywriting**
-
----
-
-**Fecha de creación:** Mayo 2026  
-**Versión:** 1.0  
-**Para:** Belen — CM especializada en Joyería y Lujo
-
----
-
-_[Empezar con Módulo 01](./modulo-01-introduccion-copywriting.md)_
+*Curso diseñado para el programa de formación de Belen — CM especializada en joyería y lujo* 💗

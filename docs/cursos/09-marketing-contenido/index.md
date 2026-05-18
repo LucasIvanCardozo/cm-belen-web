@@ -1,5 +1,33 @@
 # Curso 09: Marketing de Contenido
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción al Marketing de Contenido | Qué es, por qué importa, y cómo se relaciona con tu trabajo |
+| 02 | Pilares de Contenido para Joyería | Los 4-6 pilares temáticos que van a estructurar tu estrategia |
+| 03 | Calendario Editorial | Cómo planificar contenido para semanas y meses |
+| 04 | Contenido Evergreen vs Trending | Equilibrar lo que siempre funciona con lo que está de moda |
+| 05 | Reutilizar Contenido | 1 contenido → 10 piezas (eficiencia máxima) |
+| 06 | Contenido Generado por Usuarios (UGC) | Cómo conseguir que tus clientes creen contenido por vos |
+| 07 | Distribución de Contenido | No solo crear, también saber dónde y cuándo publicar |
+| 08 | Métricas de Marketing de Contenido | Medir si tu contenido realmente está funcionando |
+| 09 | Estrategia Completa | Armar tu plan de marketing de contenido de principio a fin |
+
+## ▶️ Navegación rápida
+
+- [🎀 Módulo 01: Introducción al Marketing de Contenido](./modulo-01-introduccion-contenido.md)
+- [💗 Módulo 02: Pilares de Contenido para Joyería](./modulo-02-pilares-contenido.md)
+- [🌸 Módulo 03: Calendario Editorial](./modulo-03-calendario-editorial.md)
+- [🎀 Módulo 04: Contenido Evergreen vs Trending](./modulo-04-contenido-evergreen.md)
+- [💗 Módulo 05: Reutilizar Contenido](./modulo-05-reutilizar-contenido.md)
+- [🌸 Módulo 06: Contenido Generado por Usuarios](./modulo-06-contenido-generado-usuario.md)
+- [🎀 Módulo 07: Distribución de Contenido](./modulo-07-distribucion-contenido.md)
+- [💗 Módulo 08: Métricas de Marketing de Contenido](./modulo-08-metricas-contenido.md)
+- [🌸 Módulo 09: Estrategia Completa](./modulo-09-estrategia-completa.md)
+
+---
+
 ## Bienvenida al Marketing de Contenido
 
 Este curso te va a transformar de alguien que "publica cosas" a alguien que tiene una **estrategia clara** de contenido que genera resultados.
@@ -153,4 +181,4 @@ Si estás listo, empezá por el Módulo 01.
 
 ---
 
-_[Siguiente: Módulo 01 — Introducción al Marketing de Contenido](./modulo-01-introduccion-contenido.md)_
+💗 [Ir al Módulo 01: Introducción al Marketing de Contenido](./modulo-01-introduccion-contenido.md)

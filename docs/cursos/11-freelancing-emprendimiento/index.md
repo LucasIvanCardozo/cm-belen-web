@@ -1,5 +1,35 @@
 # Curso 11: Freelancing y Emprendimiento para Community Manager
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción al Freelancing | Qué es ser freelancer y cómo funciona |
+| 02 | Cómo Encontrar Clientes | Estrategias para conseguir tus primeros clientes |
+| 03 | Cómo Precisar tus Servicios | Definir qué ofrecés y a quién |
+| 04 | Tu Marca Personal | Construir tu presencia como profesional |
+| 05 | Cómo Buscar Trabajo | Plataformas, networking y oportunidades |
+| 06 | Presentaciones y Ventas | Cómo ganar proyectos con propuestas ganadoras |
+| 07 | Facturación y Pagos | Aspectos legales y gestión de cobros |
+| 08 | Finanzas Personales | Manejar tu dinero como freelancer |
+| 09 | Cómo Escalar tu Negocio | Estrategias para crecer y diversificar |
+| 10 | Siguientes Pasos | Plan de acción y reflexión final |
+
+## ▶️ Navegación rápida
+
+- [🎀 Módulo 01: Introducción al Freelancing](./modulo-01-introduccion-freelancing.md)
+- [💗 Módulo 02: Cómo Encontrar Clientes](./modulo-02-encontrar-clientes.md)
+- [🌸 Módulo 03: Cómo Precisar tus Servicios](./modulo-03-precios-servicios.md)
+- [🎀 Módulo 04: Tu Marca Personal](./modulo-04-marca-personal.md)
+- [💗 Módulo 05: Cómo Buscar Trabajo](./modulo-05-buscar-trabajo.md)
+- [🌸 Módulo 06: Presentaciones y Ventas](./modulo-06-presentaciones-ventas.md)
+- [🎀 Módulo 07: Facturación y Pagos](./modulo-07-facturacion-pagos.md)
+- [💗 Módulo 08: Finanzas Personales](./modulo-08-finanzas-personales.md)
+- [🌸 Módulo 09: Cómo Escalar tu Negocio](./modulo-09-escalar-negocio.md)
+- [🎀 Módulo 10: Siguientes Pasos](./modulo-10-siguientes-pasos.md)
+
+---
+
 ## 🎉 ¡Llegaste al último curso! ¡Felicitaciones!
 
 Este es el curso que cierra tu programa de formación como Community Manager especializada en joyería y lujo. Acá vas a aprender cómo transformar todo lo que aprendiste en un negocio real.
@@ -174,7 +204,7 @@ este curso no va a servir de nada.
 
 ## Empezar
 
-**→ [Módulo 1: Introducción al Freelancing](./modulo-01-introduccion-freelancing.md)**
+💗 **[Ir al Módulo 1: Introducción al Freelancing](./modulo-01-introduccion-freelancing.md)**
 
 ---
 

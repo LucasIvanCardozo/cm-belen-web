@@ -1,5 +1,33 @@
 # Curso 10: Community Building — Construcción de Comunidades
 
+## 📚 Módulos
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 01 | Introducción al Community Building | Qué es una comunidad y por qué importa |
+| 02 | Psicología de la Comunidad | Por qué las personas se unen a comunidades |
+| 03 | Engagement Auténtico | Cómo conectar de verdad, no solo interactuar |
+| 04 | Construir Lealtad de Marca | De seguidor a fan |
+| 05 | Comunidad Online | Estrategias para espacios digitales |
+| 06 | Eventos Virtuales | Crear experiencias que unen |
+| 07 | Colaboraciones Comunitarias | Partnerships que multiplican |
+| 08 | Medir la Salud de tu Comunidad | Métricas que importan |
+| 09 | Estrategia Completa | Todo junto, en acción |
+
+## ▶️ Navegación rápida
+
+- [🎀 Módulo 01: Introducción al Community Building](./modulo-01-introduccion-community.md)
+- [💗 Módulo 02: Psicología de la Comunidad](./modulo-02-psicologia-comunidad.md)
+- [🌸 Módulo 03: Engagement Auténtico](./modulo-03-engagement-autentico.md)
+- [🎀 Módulo 04: Construir Lealtad de Marca](./modulo-04-construir-lealtad.md)
+- [💗 Módulo 05: Comunidad Online](./modulo-05-comunidad-online.md)
+- [🌸 Módulo 06: Eventos Virtuales](./modulo-06-eventos-virtuales.md)
+- [🎀 Módulo 07: Colaboraciones Comunitarias](./modulo-07-colaboraciones-comunidad.md)
+- [💗 Módulo 08: Medir la Salud de tu Comunidad](./modulo-08-medir-comunidad.md)
+- [🌸 Módulo 09: Estrategia Completa](./modulo-09-estrategia-completa.md)
+
+---
+
 ## Bienvenida al Curso
 
 ¡Bienvenida! En este curso vas a aprender una de las habilidades más poderosas y menos entendidas del Community Management: **construir comunidades reales**.
@@ -233,7 +261,7 @@ Si estás lista para transformar seguidores en una comunidad leal, este es tu cu
 
 **Empecemos por el principio: ¿Qué es realmente una comunidad?**
 
-→ [Ir al Módulo 1: Introducción al Community Building](./modulo-01-introduccion-community.md)
+💗 [Ir al Módulo 1: Introducción al Community Building](./modulo-01-introduccion-community.md)
 
 ---
 
