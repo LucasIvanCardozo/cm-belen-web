@@ -1,0 +1,123 @@
+# CM para Belen - MkDocs Configuration
+# Hello Kitty Theme 🎀
+
+site_name: 🎀 CM para Belen
+site_url: https://tu-usuario.github.io/cm-belen/
+site_description: Programa de formación para Community Manager especializado en joyería
+site_author: Belen
+
+# Repository
+repo_name: tu-usuario/cm-belen-web
+repo_url: https://github.com/tu-usuario/cm-belen-web
+
+# Theme configuration
+theme:
+  name: material
+  language: es
+  
+  # Hello Kitty Colors
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Modo oscuro
+
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+
+  # Fonts
+  font:
+    text: Nunito
+    code: JetBrains Mono
+
+  # Features
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.linklets
+    - content.code.copy
+    - toc.integrate
+
+# Custom CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\(\)/]+'
+
+# Social Cards (optional)
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tu-usuario
+
+# Page tree structure
+nav:
+  - 🎀 Inicio: index.md
+  - 📚 Cursos:
+      - cursos/01-fundamentos-cm/index.md
+      - cursos/02-herramientas-mobile/index.md
+      - cursos/03-copywriting/index.md
+      - cursos/04-fotografia-producto/index.md
+      - cursos/05-instagram-joyeria/index.md
+      - cursos/06-analitica-metricas/index.md
+      - cursos/07-publicidad-basica/index.md
+      - cursos/08-gestion-clientes/index.md
+      - cursos/09-marketing-contenido/index.md
+      - cursos/10-community-building/index.md
+      - cursos/11-freelancing-emprendimiento/index.md
+  - 🛠️ Herramientas:
+      - herramientas/meta-business-suite/index.md
+      - herramientas/canva/index.md
+      - herramientas/capcut/index.md
+      - herramientas/later/index.md
+      - herramientas/notion/index.md
+      - herramientas/ia-para-cm/index.md
+  - 📖 overview.md
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra
+extra:
+  generator: false

@@ -1,0 +1,1408 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Programa de formación para Community Manager especializado en joyería">
+      
+      
+        <meta name="author" content="Belen">
+      
+      
+        <link rel="canonical" href="https://tu-usuario.github.io/cm-belen/herramientas/ia-para-cm/01-chatgpt-para-captions/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>01 — ChatGPT para Captions - 🎀 CM para Belen</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Nunito";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="pink">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#01-chatgpt-para-captions" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../../.." title="🎀 CM para Belen" class="md-header__button md-logo" aria-label="🎀 CM para Belen" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            🎀 CM para Belen
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              01 — ChatGPT para Captions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="pink"  aria-label="Modo oscuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="pink"  aria-label="Modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/tu-usuario/cm-belen-web" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tu-usuario/cm-belen-web
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  🎀 Inicio
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../cursos/01-fundamentos-cm/" class="md-tabs__link">
+          
+  
+  
+  📚 Cursos
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../meta-business-suite/" class="md-tabs__link">
+          
+  
+  
+  🛠️ Herramientas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../📖 overview.md" class="md-tabs__link">
+        
+  
+  
+    
+  
+  None
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="🎀 CM para Belen" class="md-nav__button md-logo" aria-label="🎀 CM para Belen" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    🎀 CM para Belen
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/tu-usuario/cm-belen-web" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    tu-usuario/cm-belen-web
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎀 Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📚 Cursos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    📚 Cursos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/01-fundamentos-cm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 01 - Fundamentos del Community Manager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/02-herramientas-mobile/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 02: Herramientas Mobile para Community Management
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/03-copywriting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 03: Copywriting para Community Manager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/04-fotografia-producto/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 04: Fotografía de Producto para Joyería
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/05-instagram-joyeria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 05 — Instagram para Joyería y Lujo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/06-analitica-metricas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 06: Analítica y Métricas para CM
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/07-publicidad-basica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 7 — Publicidad Básica con Meta Ads
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/08-gestion-clientes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 8 — Gestión de Clientes para Community Managers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/09-marketing-contenido/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 09: Marketing de Contenido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/10-community-building/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 10: Community Building — Construcción de Comunidades
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cursos/11-freelancing-emprendimiento/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Curso 11: Freelancing y Emprendimiento para Community Manager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🛠️ Herramientas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🛠️ Herramientas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../meta-business-suite/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guía Completa de Meta Business Suite
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../canva/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎨 Guía Completa de Canva para Community Managers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../capcut/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guía Completa de CapCut para Community Managers 📱✨
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../later/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guía Práctica: Later — Programación de Contenido desde tu Celular
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guía Completa de Notion para Community Manager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🤖 Guía IA para Community Manager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../📖 overview.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    None
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="01-chatgpt-para-captions">01 — ChatGPT para Captions<a class="headerlink" href="#01-chatgpt-para-captions" title="Permanent link">&para;</a></h1>
+<h2 id="escribir-mejores-captions-en-minutos">Escribir Mejores Captions en Minutos<a class="headerlink" href="#escribir-mejores-captions-en-minutos" title="Permanent link">&para;</a></h2>
+<hr />
+<h2 id="que-vas-a-aprender">Qué vas a aprender<a class="headerlink" href="#que-vas-a-aprender" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Cómo usar ChatGPT para generar ideas de captions</li>
+<li>Escribir prompts efectivos para joyería y lujo</li>
+<li>Estructurar captions con ayuda de IA</li>
+<li>Mantener tu voz auténtica mientras usas IA</li>
+<li>Crear variaciones para testing A/B</li>
+</ul>
+<hr />
+<h2 id="1-por-que-chatgpt-para-captions">1. Por qué ChatGPT para captions<a class="headerlink" href="#1-por-que-chatgpt-para-captions" title="Permanent link">&para;</a></h2>
+<h3 id="el-problema-antes-de-ia">El problema antes de IA:<a class="headerlink" href="#el-problema-antes-de-ia" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Tiempo promedio para escribir UN caption profesional:
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>- Principiante: 20-30 minutos
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>- Con experiencia: 10-15 minutos
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>- Con práctica: 5-10 minutos
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>Con ChatGPT:
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>- Generación inicial: 30 segundos
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>- Personalización: 2-5 minutos
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>- Total: 3-6 minutos por caption
+</code></pre></div>
+<h3 id="ventajas-concretas">Ventajas concretas:<a class="headerlink" href="#ventajas-concretas" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspecto</th>
+<th>Sin IA</th>
+<th>Con IA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Velocidad</td>
+<td>Lenta</td>
+<td>Rápida</td>
+</tr>
+<tr>
+<td>Variedad de ideas</td>
+<td>Limitada</td>
+<td>Ilimitada</td>
+</tr>
+<tr>
+<td>Bloqueo creativo</td>
+<td>Frecuente</td>
+<td>Raro</td>
+</tr>
+<tr>
+<td>Consistencia</td>
+<td>Variable</td>
+<td>Estable</td>
+</tr>
+<tr>
+<td>Tono profesional</td>
+<td>Depende del día</td>
+<td>Siempre disponible</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="2-primeros-pasos-con-chatgpt">2. Primeros pasos con ChatGPT<a class="headerlink" href="#2-primeros-pasos-con-chatgpt" title="Permanent link">&para;</a></h2>
+<h3 id="descarga-e-instalacion">Descarga e instalación:<a class="headerlink" href="#descarga-e-instalacion" title="Permanent link">&para;</a></h3>
+<ol>
+<li>📱 Descargá ChatGPT de la App Store o Google Play</li>
+<li>📝 Creá una cuenta (podes usar Google o Apple)</li>
+<li>✅ Empezá con el plan gratis (GPT-4 está disponible)</li>
+<li>📱 Guardá el acceso rápido en tu pantalla de inicio</li>
+</ol>
+<h3 id="interfaz-basica-celular">Interfaz básica (celular):<a class="headerlink" href="#interfaz-basica-celular" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>┌─────────────────────────────────────┐
+<a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>│  🤖 ChatGPT                         │
+<a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a>├─────────────────────────────────────┤
+<a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a>│                                     │
+<a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a>│  ┌─────────────────────────────┐    │
+<a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a>│  │ Escribí tu mensaje aquí... │    │
+<a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a>│  └─────────────────────────────┘    │
+<a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a>│                                     │
+<a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a>│  [New chat] [History] [Settings]   │
+<a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a>│                                     │
+<a id="__codelineno-1-11" name="__codelineno-1-11" href="#__codelineno-1-11"></a>└─────────────────────────────────────┘
+</code></pre></div>
+<hr />
+<h2 id="3-prompts-basicos-para-captions">3. Prompts básicos para captions<a class="headerlink" href="#3-prompts-basicos-para-captions" title="Permanent link">&para;</a></h2>
+<h3 id="31-prompt-para-generar-ideas">3.1 Prompt para generar ideas<a class="headerlink" href="#31-prompt-para-generar-ideas" title="Permanent link">&para;</a></h3>
+<p><strong>Prompt básico:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>Quiero 10 ideas de captions para un post de Instagram
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>de una joyería que vende anillos de compromiso.
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a>El tono debe ser elegante y emotivo.
+</code></pre></div>
+<p><strong>Prompt mejorado (más específico):</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>Soy Community Manager de una joyería de lujo en Argentina.
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>Necesito 10 ideas de captions para posts sobre anillos
+<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>de compromiso.
+<a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a>
+<a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a>Requisitos:
+<a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>- Tono: elegante, emotivo, aspiracional
+<a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a>- Longitud: varied (2-3 cortas, 4-5 medianas, 3-4 largas)
+<a id="__codelineno-3-8" name="__codelineno-3-8" href="#__codelineno-3-8"></a>- Incluir: 1-2 con call-to-action
+<a id="__codelineno-3-9" name="__codelineno-3-9" href="#__codelineno-3-9"></a>- Para audiencia: mujeres 25-40 años, LatAm
+<a id="__codelineno-3-10" name="__codelineno-3-10" href="#__codelineno-3-10"></a>- Evitar: cliché romantico básico, frases genéricas
+</code></pre></div>
+<h3 id="32-prompt-para-estructura-de-caption">3.2 Prompt para estructura de caption<a class="headerlink" href="#32-prompt-para-estructura-de-caption" title="Permanent link">&para;</a></h3>
+<p><strong>Prompt:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>Ayudame a estructurar un caption para:
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a>- Tema: Collar de perlas para regalo de cumpleaños
+<a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a>- Tono: Sofisticado, íntimo
+<a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a>- Necesito: hook, historia, producto, CTA
+<a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a>- Longitud: ~150 palabras
+<a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a>- Incluir: hashtags sugeridos
+</code></pre></div>
+<h3 id="33-prompt-para-variations">3.3 Prompt para variations<a class="headerlink" href="#33-prompt-para-variations" title="Permanent link">&para;</a></h3>
+<p><strong>Prompt:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>Tengo este caption:
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>&quot;Cada perla cuenta una historia de elegancia atemporal.
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a>Descubre nuestra nueva colección que transforma momentos
+<a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a>en recuerdos eternos.&quot;
+<a id="__codelineno-5-5" name="__codelineno-5-5" href="#__codelineno-5-5"></a>
+<a id="__codelineno-5-6" name="__codelineno-5-6" href="#__codelineno-5-6"></a>Generame 5 variaciones:
+<a id="__codelineno-5-7" name="__codelineno-5-7" href="#__codelineno-5-7"></a>1. Más corto y punchy
+<a id="__codelineno-5-8" name="__codelineno-5-8" href="#__codelineno-5-8"></a>2. Más emocional
+<a id="__codelineno-5-9" name="__codelineno-5-9" href="#__codelineno-5-9"></a>3. Con pregunta al final
+<a id="__codelineno-5-10" name="__codelineno-5-10" href="#__codelineno-5-10"></a>4. Estilo storytelling
+<a id="__codelineno-5-11" name="__codelineno-5-11" href="#__codelineno-5-11"></a>5. Minimalista y elegante
+</code></pre></div>
+<hr />
+<h2 id="4-prompts-para-joyeria-y-lujo">4. Prompts para joyería y lujo<a class="headerlink" href="#4-prompts-para-joyeria-y-lujo" title="Permanent link">&para;</a></h2>
+<h3 id="41-captions-para-diferentes-tipos-de-piezas">4.1 Captions para diferentes tipos de piezas<a class="headerlink" href="#41-captions-para-diferentes-tipos-de-piezas" title="Permanent link">&para;</a></h3>
+<p><strong>Para oro:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>Generá 5 captions para un post de joyería en oro 18k.
+<a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a>Cada caption debe:
+<a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a>- Tener un ángulo diferente (historia, beneficio, moda, ocasión, artesanía)
+<a id="__codelineno-6-4" name="__codelineno-6-4" href="#__codelineno-6-4"></a>- Usar vocabulario de lujo (sin ser pretencioso)
+<a id="__codelineno-6-5" name="__codelineno-6-5" href="#__codelineno-6-5"></a>- Incluir un hook en la primera línea
+<a id="__codelineno-6-6" name="__codelineno-6-6" href="#__codelineno-6-6"></a>- Terminar con CTA suave
+</code></pre></div>
+<p><strong>Para plata:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a>Necesito 3 captions para publicaciones sobre anillos de plata 925.
+<a id="__codelineno-7-2" name="__codelineno-7-2" href="#__codelineno-7-2"></a>- Target: mujeres jóvenes (20-30) que buscan joyería cotidiana
+<a id="__codelineno-7-3" name="__codelineno-7-3" href="#__codelineno-7-3"></a>- Tono: fresco, moderno, accesible-lujo
+<a id="__codelineno-7-4" name="__codelineno-7-4" href="#__codelineno-7-4"></a>- Incluir: por lo menos 1 que funcione para stories
+</code></pre></div>
+<p><strong>Para piedras preciosas:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a>Ayudame con captions para anillos con piedra esmeralda.
+<a id="__codelineno-8-2" name="__codelineno-8-2" href="#__codelineno-8-2"></a>- Estilo: vintage-lujoso, romántico
+<a id="__codelineno-8-3" name="__codelineno-8-3" href="#__codelineno-8-3"></a>- Audience: coleccionistas y compradores especiales
+<a id="__codelineno-8-4" name="__codelineno-8-4" href="#__codelineno-8-4"></a>- Incluir: dato interesante sobre la piedra
+<a id="__codelineno-8-5" name="__codelineno-8-5" href="#__codelineno-8-5"></a>- Evitar: información científica aburrida
+</code></pre></div>
+<h3 id="42-captions-para-ocasiones">4.2 Captions para ocasiones<a class="headerlink" href="#42-captions-para-ocasiones" title="Permanent link">&para;</a></h3>
+<p><strong>San Valentín:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a>Generá 8 captions para San Valentín para una joyería.
+<a id="__codelineno-9-2" name="__codelineno-9-2" href="#__codelineno-9-2"></a>- Diferentes ángulos: regalo para él, regalo para ella, autoregalo,
+<a id="__codelineno-9-3" name="__codelineno-9-3" href="#__codelineno-9-3"></a>  compromiso, amistad especial
+<a id="__codelineno-9-4" name="__codelineno-9-4" href="#__codelineno-9-4"></a>- Tono: emotivo sin ser cursi
+<a id="__codelineno-9-5" name="__codelineno-9-5" href="#__codelineno-9-5"></a>- Longitud: variada
+<a id="__codelineno-9-6" name="__codelineno-9-6" href="#__codelineno-9-6"></a>- Incluir: 2 versiones short (para stories)
+</code></pre></div>
+<p><strong>Día de la Madre:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a>Necesito captions para el Día de la Madre para una joyería.
+<a id="__codelineno-10-2" name="__codelineno-10-2" href="#__codelineno-10-2"></a>- Target: hijos que regalan a sus mamás
+<a id="__codelineno-10-3" name="__codelineno-10-3" href="#__codelineno-10-3"></a>- Tono: emotivo, reconocimiento, celebración
+<a id="__codelineno-10-4" name="__codelineno-10-4" href="#__codelineno-10-4"></a>- Diferentes price points: regalo accesible, regalo premium, lujo
+</code></pre></div>
+<p><strong>Navidad:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a>Ayudame con captions para Navidad.
+<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a>- 5 para temporada (noviembre-diciembre)
+<a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a>- 3 para última semana (urgencia)
+<a id="__codelineno-11-4" name="__codelineno-11-4" href="#__codelineno-11-4"></a>- 2 para post-ventas (gracias por la confianza)
+</code></pre></div>
+<h3 id="43-captions-por-tipo-de-contenido">4.3 Captions por tipo de contenido<a class="headerlink" href="#43-captions-por-tipo-de-contenido" title="Permanent link">&para;</a></h3>
+<p><strong>Para antes/después (cuidadojoyas):</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a>Generá captions para antes/después de limpiar joyería.
+<a id="__codelineno-12-2" name="__codelineno-12-2" href="#__codelineno-12-2"></a>- Explicar el proceso
+<a id="__codelineno-12-3" name="__codelineno-12-3" href="#__codelineno-12-3"></a>- Mostrar la transformación
+<a id="__codelineno-12-4" name="__codelineno-12-4" href="#__codelineno-12-4"></a>- Incluir tip de cuidado
+<a id="__codelineno-12-5" name="__codelineno-12-5" href="#__codelineno-12-5"></a>- Tono: educativo pero accesible
+</code></pre></div>
+<p><strong>Para unboxing/revelación:</strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a>Necesito captions para videos de unboxing de joyería.
+<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a>- Expectativa vs realidad
+<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a>- Detalle de packaging
+<a id="__codelineno-13-4" name="__codelineno-13-4" href="#__codelineno-13-4"></a>- Reacción emocional
+<a id="__codelineno-13-5" name="__codelineno-13-5" href="#__codelineno-13-5"></a>- Tono: excitement contenido, sofisticación
+</code></pre></div>
+<hr />
+<h2 id="5-como-mejorar-los-captions-de-ia">5. Cómo mejorar los captions de IA<a class="headerlink" href="#5-como-mejorar-los-captions-de-ia" title="Permanent link">&para;</a></h2>
+<h3 id="el-proceso-correcto">El proceso correcto:<a class="headerlink" href="#el-proceso-correcto" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a>┌─────────────────────────────────────────────────────────┐
+<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a>│                                                          │
+<a id="__codelineno-14-3" name="__codelineno-14-3" href="#__codelineno-14-3"></a>│   1. IA genera → Vos revisás                            │
+<a id="__codelineno-14-4" name="__codelineno-14-4" href="#__codelineno-14-4"></a>│   2. IA sugiere → Vos elegís                           │
+<a id="__codelineno-14-5" name="__codelineno-14-5" href="#__codelineno-14-5"></a>│   3. IA estructura → Vos personalizás                  │
+<a id="__codelineno-14-6" name="__codelineno-14-6" href="#__codelineno-14-6"></a>│   4. IA traduce → Vos adaptás                          │
+<a id="__codelineno-14-7" name="__codelineno-14-7" href="#__codelineno-14-7"></a>│                                                          │
+<a id="__codelineno-14-8" name="__codelineno-14-8" href="#__codelineno-14-8"></a>└─────────────────────────────────────────────────────────┘
+</code></pre></div>
+<h3 id="preguntas-para-revisar">Preguntas para revisar:<a class="headerlink" href="#preguntas-para-revisar" title="Permanent link">&para;</a></h3>
+<ul>
+<li>❓ ¿Suena como mi marca?</li>
+<li>❓ ¿Mi audiencia lo entendería?</li>
+<li>❓ ¿Es auténtico o genérico?</li>
+<li>❓ ¿Agregaría algo personal?</li>
+<li>❓ ¿El CTA tiene sentido?</li>
+</ul>
+<h3 id="ejemplo-de-mejora">Ejemplo de mejora:<a class="headerlink" href="#ejemplo-de-mejora" title="Permanent link">&para;</a></h3>
+<p><strong>Caption IA (base):</strong></p>
+<blockquote>
+<p>"La elegancia no es solo lo que ves, es cómo te sentís. Descubrí nuestra nueva colección de anillos que transforman momentos en recuerdos. 💍✨ #Joyería #Lujo #Elegancia"</p>
+</blockquote>
+<p><strong>Tu versión mejorada:</strong></p>
+<blockquote>
+<p>"Hay anillos que usás. Y hay anillos que vivís. Este... es de los segundos. 💍</p>
+<p>Cada vez que lo toques, vas a recordar el día que lo recibiste. El momento. La emoción. El "me lo merezco".</p>
+<p>Nueva colección disponible. link en bio. ✨"</p>
+</blockquote>
+<hr />
+<h2 id="6-sistema-de-trabajo-con-chatgpt">6. Sistema de trabajo con ChatGPT<a class="headerlink" href="#6-sistema-de-trabajo-con-chatgpt" title="Permanent link">&para;</a></h2>
+<h3 id="flujo-recomendado">Flujo recomendado:<a class="headerlink" href="#flujo-recomendado" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-15-1" name="__codelineno-15-1" href="#__codelineno-15-1"></a>┌─────────────────────────────────────────────────────────┐
+<a id="__codelineno-15-2" name="__codelineno-15-2" href="#__codelineno-15-2"></a>│                                                          │
+<a id="__codelineno-15-3" name="__codelineno-15-3" href="#__codelineno-15-3"></a>│   LUNES: Sesión de generación                          │
+<a id="__codelineno-15-4" name="__codelineno-15-4" href="#__codelineno-15-4"></a>│   ├── Pedí 20-30 ideas para la semana                  │
+<a id="__codelineno-15-5" name="__codelineno-15-5" href="#__codelineno-15-5"></a>│   ├── Guardalas en un banco de captions               │
+<a id="__codelineno-15-6" name="__codelineno-15-6" href="#__codelineno-15-6"></a>│   └── Revisá y aprobá las que te gusten                │
+<a id="__codelineno-15-7" name="__codelineno-15-7" href="#__codelineno-15-7"></a>│                                                          │
+<a id="__codelineno-15-8" name="__codelineno-15-8" href="#__codelineno-15-8"></a>│   MIÉRCOLES: Personalización                            │
+<a id="__codelineno-15-9" name="__codelineno-15-9" href="#__codelineno-15-9"></a>│   ├── Tomá las ideas aprobadas                        │
+<a id="__codelineno-15-10" name="__codelineno-15-10" href="#__codelineno-15-10"></a>│   ├── Agregá tu toque personal                        │
+<a id="__codelineno-15-11" name="__codelineno-15-11" href="#__codelineno-15-11"></a>│   └── Adaptá para cada cliente                        │
+<a id="__codelineno-15-12" name="__codelineno-15-12" href="#__codelineno-15-12"></a>│                                                          │
+<a id="__codelineno-15-13" name="__codelineno-15-13" href="#__codelineno-15-13"></a>│   VIERNES: Revisión y optimización                      │
+<a id="__codelineno-15-14" name="__codelineno-15-14" href="#__codelineno-15-14"></a>│   ├── Evaluá qué funcionó                            │
+<a id="__codelineno-15-15" name="__codelineno-15-15" href="#__codelineno-15-15"></a>│   ├── Pedí variations de los mejores                  │
+<a id="__codelineno-15-16" name="__codelineno-15-16" href="#__codelineno-15-16"></a>│   └── Prepará para la semana siguiente                │
+<a id="__codelineno-15-17" name="__codelineno-15-17" href="#__codelineno-15-17"></a>│                                                          │
+<a id="__codelineno-15-18" name="__codelineno-15-18" href="#__codelineno-15-18"></a>└─────────────────────────────────────────────────────────┘
+</code></pre></div>
+<h3 id="guardar-tus-mejores-prompts">Guardar tus mejores prompts:<a class="headerlink" href="#guardar-tus-mejores-prompts" title="Permanent link">&para;</a></h3>
+<p>Creá un documento en Notion o notes con:</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-16-1" name="__codelineno-16-1" href="#__codelineno-16-1"></a>📝 MIS PROMPTS PARA JOYERÍA
+<a id="__codelineno-16-2" name="__codelineno-16-2" href="#__codelineno-16-2"></a>
+<a id="__codelineno-16-3" name="__codelineno-16-3" href="#__codelineno-16-3"></a>[Nombre del prompt]
+<a id="__codelineno-16-4" name="__codelineno-16-4" href="#__codelineno-16-4"></a>[Prompt exacto que uso]
+<a id="__codelineno-16-5" name="__codelineno-16-5" href="#__codelineno-16-5"></a>[Cuándo usarlo]
+<a id="__codelineno-16-6" name="__codelineno-16-6" href="#__codelineno-16-6"></a>[Resultado típico]
+</code></pre></div>
+<p>Esto te ahorra tiempo en el futuro.</p>
+<hr />
+<h2 id="7-errores-comunes">7. Errores comunes<a class="headerlink" href="#7-errores-comunes" title="Permanent link">&para;</a></h2>
+<h3 id="no-hacer">❌ No hacer:<a class="headerlink" href="#no-hacer" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Copiar y pegar directo</strong></li>
+<li>Siempre personalizá</li>
+<li>
+<p>Agregá tu experiencia real</p>
+</li>
+<li>
+<p><strong>Usar un solo prompt genérico</strong></p>
+</li>
+<li>Especificá siempre que puedas</li>
+<li>
+<p>Más contexto = mejor resultado</p>
+</li>
+<li>
+<p><strong>Pedir demasiado en un solo mensaje</strong></p>
+</li>
+<li>Mejor: varias preguntas simples</li>
+<li>
+<p>Vas a obtener mejor calidad</p>
+</li>
+<li>
+<p><strong>Ignorar el tono de la marca</strong></p>
+</li>
+<li>ChatGPT no conoce tu cliente</li>
+<li>
+<p>Dale esa información</p>
+</li>
+<li>
+<p><strong>Usar IA para TODO</strong></p>
+</li>
+<li>Algunos captions son mejores 100% tuyos</li>
+<li>Dejá que la IA te ayude, no te reemplace</li>
+</ol>
+<h3 id="si-hacer">✅ Sí hacer:<a class="headerlink" href="#si-hacer" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Empezá siempre con contexto específico</li>
+<li>Pedí variations para elegir</li>
+<li>Iterá: "mejorá esto", "hacelo más corto", "cambiá el tono"</li>
+<li>Guardá los prompts que funcionan</li>
+<li>Combiná ideas de IA con las tuyas</li>
+</ol>
+<hr />
+<h2 id="8-ejercicio-practico">8. Ejercicio práctico<a class="headerlink" href="#8-ejercicio-practico" title="Permanent link">&para;</a></h2>
+<h3 id="tu-mision">Tu misión:<a class="headerlink" href="#tu-mision" title="Permanent link">&para;</a></h3>
+<ol>
+<li>📱 Abrí ChatGPT</li>
+<li>💬 Copiá este prompt:</li>
+</ol>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-17-1" name="__codelineno-17-1" href="#__codelineno-17-1"></a>Sos un copywriter especializado en marketing de joyería de lujo
+<a id="__codelineno-17-2" name="__codelineno-17-2" href="#__codelineno-17-2"></a>para Latinoamérica. Escribí 5 captions para Instagram sobre
+<a id="__codelineno-17-3" name="__codelineno-17-3" href="#__codelineno-17-3"></a>anillos de compromiso.
+<a id="__codelineno-17-4" name="__codelineno-17-4" href="#__codelineno-17-4"></a>
+<a id="__codelineno-17-5" name="__codelineno-17-5" href="#__codelineno-17-5"></a>Cada caption debe:
+<a id="__codelineno-17-6" name="__codelineno-17-6" href="#__codelineno-17-6"></a>- Tener un hook diferente
+<a id="__codelineno-17-7" name="__codelineno-17-7" href="#__codelineno-17-7"></a>- Usar vocabulario sofisticado pero accesible
+<a id="__codelineno-17-8" name="__codelineno-17-8" href="#__codelineno-17-8"></a>- Incluir un elemento emocional
+<a id="__codelineno-17-9" name="__codelineno-17-9" href="#__codelineno-17-9"></a>- Terminar con CTA sutil
+<a id="__codelineno-17-10" name="__codelineno-17-10" href="#__codelineno-17-10"></a>- Ser entre 100-150 palabras
+</code></pre></div>
+<ol>
+<li>⏱️ Esperá la respuesta (30 segundos)</li>
+<li>📝 Elegí tu favorita</li>
+<li>✏️ Personalizala con tu toque</li>
+<li>💾 Guardala en tu banco de captions</li>
+</ol>
+<hr />
+<h2 id="9-proximo-paso">9. Próximo paso<a class="headerlink" href="#9-proximo-paso" title="Permanent link">&para;</a></h2>
+<p>Ya sabés usar ChatGPT para captions. Ahora:</p>
+<p>👉 <strong>Aprendé a usar Claude para análisis y estrategia</strong></p>
+<p>En el próximo módulo vas a descubrir cómo usar Claude para pensar estrategias, analizar métricas y tomar mejores decisiones de contenido.</p>
+<hr />
+<p><strong>Punto clave:</strong></p>
+<ul>
+<li>ChatGPT genera rápido, vos decides mejor</li>
+<li>Siempre personalizá lo que la IA te da</li>
+<li>Guardá tus mejores prompts</li>
+<li>No todo necesita IA — elegí cuándo usarla</li>
+</ul>
+<hr />
+<p><em><a href="../../">← README</a> | <a href="../02-claude-analisis-estrategia/">Siguiente: Claude para Estrategia</a></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Volver al principio
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.instant", "navigation.instant.prefetch", "navigation.tracking", "navigation.tabs", "navigation.sections", "navigation.expand", "navigation.top", "search.suggest", "search.highlight", "content.tabs.linklets", "content.code.copy", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

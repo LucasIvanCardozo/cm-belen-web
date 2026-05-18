@@ -1,0 +1,359 @@
+/* 🎀 CM para Belen - Hello Kitty Theme */
+/* Colores Hello Kitty */
+
+:root {
+  /* Hello Kitty Pink Palette */
+  --hk-pink: #FF69B4;
+  --hk-pink-light: #FFB6C1;
+  --hk-pink-dark: #DB7093;
+  --hk-pink-soft: #FFF0F5;
+  --hk-red: #FF0000;
+  --hk-gold: #FFD700;
+}
+
+/* Header - Hello Kitty Style */
+.md-header {
+  background: linear-gradient(135deg, #FF69B4 0%, #FFB6C1 100%);
+  box-shadow: 0 2px 10px rgba(255, 105, 180, 0.3);
+}
+
+.md-header__topic,
+.md-header__title {
+  color: white !important;
+  font-weight: bold;
+}
+
+/* Navigation */
+.md-nav__link {
+  transition: all 0.3s ease;
+}
+
+.md-nav__link:hover {
+  color: #FF69B4 !important;
+}
+
+/* Sidebar */
+.md-sidebar {
+  background-color: #FFF0F5;
+}
+
+.md-nav__item > .md-nav__link--active {
+  color: #FF69B4 !important;
+  font-weight: bold;
+  border-left: 3px solid #FF69B4;
+  padding-left: 0.5rem;
+}
+
+/* Cards and Containers */
+.md-typeset {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Headings */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #DB7093;
+  font-weight: bold;
+  border-bottom: 2px solid #FFB6C1;
+  padding-bottom: 0.3em;
+}
+
+.md-typeset h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset h1::before {
+  content: "🎀 ";
+}
+
+.md-typeset h2::before {
+  content: "💗 ";
+}
+
+.md-typeset h3::before {
+  content: "🌸 ";
+}
+
+/* Links */
+.md-typeset a {
+  color: #FF69B4;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.md-typeset a:hover {
+  color: #DB7093;
+  text-decoration: underline;
+}
+
+/* Tables */
+.md-typeset table {
+  border: 2px solid #FFB6C1;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, #FF69B4 0%, #FFB6C1 100%);
+  color: white;
+}
+
+.md-typeset table tbody tr:hover {
+  background-color: #FFF0F5;
+}
+
+/* Code Blocks */
+.md-typeset code {
+  background-color: #FFF0F5;
+  border: 1px solid #FFB6C1;
+  border-radius: 4px;
+  padding: 0.1em 0.3em;
+}
+
+.md-typeset pre {
+  background-color: #2d2d2d;
+  border-radius: 8px;
+  border: 2px solid #FFB6C1;
+}
+
+/* Admonitions (Notes, Warnings, etc.) */
+.md-typeset :is(.admonition) {
+  border-radius: 8px;
+  border-left: 4px solid;
+}
+
+.md-typeset .admonition-note {
+  background-color: #FFF0F5;
+  border-color: #FFB6C1;
+}
+
+.md-typeset .admonition-tip {
+  background-color: #FFF0F5;
+  border-color: #FF69B4;
+}
+
+.md-typeset .admonition-warning {
+  background-color: #FFF5F5;
+  border-color: #FF6B6B;
+}
+
+.md-typeset .admonition-example {
+  background-color: #F0FFF0;
+  border-color: #98D8AA;
+}
+
+/* Buttons and CTAs */
+.md-typeset .task-list-control {
+  accent-color: #FF69B4;
+}
+
+.md-typeset input[type="checkbox"] {
+  accent-color: #FF69B4;
+}
+
+/* Search */
+.md-search__input {
+  background-color: #FFF0F5;
+  border: 2px solid #FFB6C1;
+  border-radius: 20px;
+}
+
+.md-search__input:focus {
+  border-color: #FF69B4;
+}
+
+/* TOC (Table of Contents) */
+.md-toc__link {
+  color: #5D5D5D;
+  transition: color 0.2s;
+}
+
+.md-toc__link:hover {
+  color: #FF69B4;
+}
+
+/* Footer */
+.md-footer {
+  background: linear-gradient(135deg, #FF69B4 0%, #FFB6C1 100%);
+  color: white;
+}
+
+.md-footer a {
+  color: white !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF0F5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFB6C1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF69B4;
+}
+
+/* Selection */
+::selection {
+  background-color: #FFB6C1;
+  color: #5D5D5D;
+}
+
+/* Emoji Size */
+.md-typeset span.twemoji {
+  font-size: 1.2em;
+}
+
+/* Home Page Special Styling */
+.md-typeset .hero-card {
+  background: linear-gradient(135deg, #FFF0F5 0%, #FFFFFF 100%);
+  border: 2px solid #FFB6C1;
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 1rem 0;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(255, 105, 180, 0.2);
+}
+
+.md-typeset .course-card {
+  background: white;
+  border: 2px solid #FFB6C1;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 0.5rem 0;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .course-card:hover {
+  border-color: #FF69B4;
+  box-shadow: 0 4px 15px rgba(255, 105, 180, 0.3);
+  transform: translateY(-2px);
+}
+
+.md-typeset .course-number {
+  display: inline-block;
+  background: linear-gradient(135deg, #FF69B4 0%, #FFB6C1 100%);
+  color: white;
+  font-weight: bold;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  margin-right: 0.5rem;
+}
+
+/* Mobile Adjustments */
+@media screen and (max-width: 76.1875em) {
+  .md-header {
+    background: #FF69B4;
+  }
+  
+  .md-nav__source {
+    background: #FFF0F5;
+  }
+}
+
+/* Print */
+@media print {
+  .md-header,
+  .md-sidebar,
+  .md-footer {
+    display: none;
+  }
+  
+  .md-content {
+    max-width: 100%;
+  }
+}
+
+/* Dark Mode */
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #FFB6C1;
+  --md-typeset-mark-color: #FFB6C1;
+  --md-typeset-mark-background: rgba(255, 105, 180, 0.2);
+  
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3 {
+    color: #FFB6C1;
+    border-bottom-color: #DB7093;
+  }
+  
+  .md-sidebar {
+    background-color: #1E1E2E;
+  }
+  
+  .md-typeset code {
+    background-color: #2D2D3D;
+    border-color: #DB7093;
+  }
+  
+  .md-typeset pre {
+    background-color: #1E1E2E;
+    border-color: #DB7093;
+  }
+}
+
+/* Hello Kitty Decorative Elements */
+.md-typeset .welcome-banner {
+  background: linear-gradient(135deg, #FF69B4 0%, #FFB6C1 50%, #FFF0F5 100%);
+  padding: 2rem;
+  border-radius: 16px;
+  text-align: center;
+  color: #5D5D5D;
+  margin: 1rem 0;
+}
+
+.md-typeset .welcome-banner h1 {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+  border: none;
+}
+
+.md-typeset .welcome-banner h1::before {
+  content: "🎀 ";
+}
+
+.md-typeset .welcome-banner h1::after {
+  content: " 🎀";
+}
+
+/* Status Badges */
+.status-badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.status-badge.completo {
+  background-color: #98D8AA;
+  color: white;
+}
+
+.status-badge.en-curso {
+  background-color: #FFD700;
+  color: #5D5D5D;
+}
+
+.status-badge.proximo {
+  background-color: #FFB6C1;
+  color: white;
+}
+
+/* Checklist Styling */
+.md-task-list-item > input[type="checkbox"]:checked + p {
+  text-decoration: line-through;
+  color: #999;
+}
