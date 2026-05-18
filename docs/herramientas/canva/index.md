@@ -41,6 +41,42 @@ Esta guía está diseñada para **Belen**, Community Manager principiante con es
     └── 📄 dimensiones-social-media.md  ← Referencia rápida formatos
 ```
 
+## 📚 Contenido
+
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | Interfaz y Navegación | Conocer la app móvil y sus herramientas principales |
+| 02 | Primeros Pasos | Cuenta, preferencias y funciones básicas |
+| 03 | Crear Cuenta de Negocio | Brand Kit, colores corporativos y fuentes |
+| 04 | Plantillas | Buscar y usar plantillas profesionales |
+| 05 | Crear Post para Instagram | Posts cuadrados para feed profesional |
+| 06 | Crear Carruseles | Formato carrusel para storytelling visual |
+| 07 | Stories y Reels/Covers | Formato vertical para Stories y portadas |
+| 08 | Edición de Fotos | Edición básica y ajustes profesionales |
+| 09 | Texto y Tipografía | Trabajar con texto y fuentes decorativas |
+| 10 | Colores y Marcas | Consistencia visual para tu marca |
+| 11 | Plantillas Personalizadas | Crear y guardar plantillas reutilizables |
+| 12 | Exportar y Compartir | Exportar en alta calidad y formatos correctos |
+| 13 | Trucos Pro | Tips avanzados para工作效率 |
+| 14 | Ejemplos Prácticos | Casos reales aplicados a joyería y lujo |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: Interfaz y Navegación](./01-interfaz-y-navegacion.md) 🎀
+- [Sección 02: Primeros Pasos](./02-primeros-pasos.md) 💗
+- [Sección 03: Crear Cuenta de Negocio](./03-crear-cuenta-negocio.md) 🌸
+- [Sección 04: Plantillas](./04-plantillas.md) 🎀
+- [Sección 05: Crear Post para Instagram](./05-crear-post-instagram.md) 💗
+- [Sección 06: Crear Carruseles](./06-crear-carruseles.md) 🌸
+- [Sección 07: Stories y Reels/Covers](./07-stories-y-reels-covers.md) 🎀
+- [Sección 08: Edición de Fotos](./08-edicion-fotos.md) 💗
+- [Sección 09: Texto y Tipografía](./09-texto-y-tipografia.md) 🌸
+- [Sección 10: Colores y Marcas](./10-colores-y-marcas.md) 🎀
+- [Sección 11: Plantillas Personalizadas](./11-plantillas-personalizadas.md) 💗
+- [Sección 12: Exportar y Compartir](./12-exportar-y-compartir.md) 🌸
+- [Sección 13: Trucos Pro](./13-trucos-pro.md) 🎀
+- [Sección 14: Ejemplos Prácticos](./14-ejemplos-practicos.md) 💗
+
 ---
 
 ## 🎯 Cómo Usar Esta Guía

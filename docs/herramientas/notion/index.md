@@ -32,6 +32,31 @@ Notion es tu **cuarto cerebro digital**. En esta guía vas a aprender a:
 
 ---
 
+## 📚 Contenido
+
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | Instalación y Configuración | Descargar, crear cuenta y workspace inicial |
+| 02 | Interfaz y Navegación | Conocer blocks, pages, databases y vistas |
+| 03 | Plantillas Básicas | Crear y usar templates de Notion |
+| 04 | Gestión de Clientes | Base de datos y seguimiento de proyectos |
+| 05 | Calendario Editorial | Planificar contenido con vistas de calendario |
+| 06 | Gestión de Tareas | Kanban, timelines y seguimiento de pendientes |
+| 07 | Sistema de Finanzas | Ingresos, gastos y rentabilidad por cliente |
+| 08 | Templates para Joyería y Lujo | Sets готовых plantillas para joyería premium |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: Instalación y Configuración](./01-instalacion-y-configuracion.md) 💗
+- [Sección 02: Interfaz y Navegación](./02-interfaz-y-navegacion.md) 🎀
+- [Sección 03: Plantillas Básicas](./03-plantillas-basicas.md) 🌸
+- [Sección 04: Gestión de Clientes](./04-gestion-clientes.md) 💗
+- [Sección 05: Calendario Editorial](./05-calendario-editorial.md) 🎀
+- [Sección 06: Gestión de Tareas](./06-gestion-tareas.md) 🌸
+- [Sección 07: Sistema de Finanzas](./07-sistema-finanzas.md) 💗
+- [Sección 08: Templates para Joyería y Lujo](./08-plantillas-joyeria-lujo.md) 🎀
+
+---
 ## 🛠️ Qué necesitás
 
 - Teléfono celular (Android o iPhone)

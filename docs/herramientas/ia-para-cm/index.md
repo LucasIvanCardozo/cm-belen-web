@@ -183,17 +183,27 @@ Eso es exactamente cómo vamos a trabajar.
 
 ---
 
-## Módulos de esta guía
+## 📚 Contenido
 
-| Módulo | Tema                              | Archivo                            |
-| ------ | --------------------------------- | ---------------------------------- |
-| 1      | ChatGPT para captions             | `01-chatgpt-para-captions.md`      |
-| 2      | Claude para análisis y estrategia | `02-claude-analisis-estrategia.md` |
-| 3      | Canva AI                          | `03-canva-ai-herramientas.md`      |
-| 4      | CapCut AI                         | `04-capcut-ai-edicion.md`          |
-| 5      | IA para hashtags                  | `05-ia-para-hashtags.md`           |
-| 6      | Prompts para joyería              | `06-prompts-joyeria-lujo.md`       |
-| 7      | Generación de imágenes IA         | `07-generacion-imagenes-ia.md`     |
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | ChatGPT para Captions | Generar captions irresistibles en minutos |
+| 02 | Claude para Estrategia | Análisis de audiencia y planificación |
+| 03 | Canva AI | Diseño automático y Magic Media |
+| 04 | CapCut AI | Subtítulos y edición de video inteligente |
+| 05 | IA para Hashtags | Encontrar los mejores hashtags automáticamente |
+| 06 | Prompts para Joyería | Crear prompts efectivos para joyería y lujo |
+| 07 | Generación de Imágenes IA | Crear visuales sin photoshoots profesionales |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: ChatGPT para Captions](./01-chatgpt-para-captions.md) 💗
+- [Sección 02: Claude para Estrategia](./02-claude-analisis-estrategia.md) 🎀
+- [Sección 03: Canva AI](./03-canva-ai-herramientas.md) 🌸
+- [Sección 04: CapCut AI](./04-capcut-ai-edicion.md) 💗
+- [Sección 05: IA para Hashtags](./05-ia-para-hashtags.md) 🎀
+- [Sección 06: Prompts para Joyería](./06-prompts-joyeria-lujo.md) 🌸
+- [Sección 07: Generación de Imágenes IA](./07-generacion-imagenes-ia.md) 💗
 
 ---
 

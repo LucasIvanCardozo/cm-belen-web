@@ -33,6 +33,35 @@ Later es una herramienta de programación que te permite:
 
 ---
 
+## 📚 Contenido
+
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | Instalación y Configuración | Descargar Later, crear cuenta y primeros ajustes |
+| 02 | Interfaz y Navegación | Conocer el app y sus funciones principales |
+| 03 | Conectar Cuentas | Vincular Instagram, Facebook, Pinterest y TikTok |
+| 04 | Calendario de Contenido | Crear y organizar tu calendario visual mensual |
+| 05 | Programar Publicaciones | Publicar fotos, carruseles y videos automáticamente |
+| 06 | Stories y Reels | Programar contenido efímero y videos cortos |
+| 07 | Análisis de Resultados | Métricas y estadísticas de engagement |
+| 08 | Workflows y Automatizaciones | Ahorrar tiempo con procesos automáticos |
+| 09 | Planificación Mensual | Organizar todo un mes de contenido estratégico |
+| 10 | Tips para Joyería y Lujo | Estrategias específicas para joyería premium |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: Instalación y Configuración](./01-instalacion-y-configuracion.md) 💗
+- [Sección 02: Interfaz y Navegación](./02-interfaz-y-navegacion.md) 🎀
+- [Sección 03: Conectar Cuentas](./03-conectar-cuentas-redes.md) 🌸
+- [Sección 04: Calendario de Contenido](./04-crear-calendario-contenido.md) 💗
+- [Sección 05: Programar Publicaciones](./05-programar-publicaciones.md) 🎀
+- [Sección 06: Stories y Reels](./06-stories-y-reels.md) 🌸
+- [Sección 07: Análisis de Resultados](./07-analisis-resultados.md) 💗
+- [Sección 08: Workflows y Automatizaciones](./08-workflows-automatizaciones.md) 🎀
+- [Sección 09: Planificación Mensual](./09-planificacion-mensual.md) 🌸
+- [Sección 10: Tips para Joyería y Lujo](./10-tips-joyeria-lujo.md) 💗
+
+---
 ## 📋 Requisitos previos
 
 - ✅ Meta Business Suite configurado (ya lo tenés)

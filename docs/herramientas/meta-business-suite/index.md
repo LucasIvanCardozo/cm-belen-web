@@ -39,6 +39,36 @@ Esta guía te llevará paso a paso desde cero hasta convertirte en una usuaria c
 | 11     | `11-resolucion-problemas.md`      | Solución a problemas comunes                  |
 | Extra  | `recursos/cheat-sheet.md`         | Referencia rápida para consultas rápidas      |
 
+## 📚 Contenido
+
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | Instalación y Configuración | Descarga, instalación y configuración inicial de la app |
+| 02 | Interfaz Principal | Tour por el dashboard y sus secciones principales |
+| 03 | Gestión de Cuentas | Conectar y gestionar múltiples cuentas de Instagram/Facebook |
+| 04 | Crear Publicaciones | Crear publicaciones profesionales para Instagram y Facebook |
+| 05 | Programar Contenido | Programar publicaciones para más adelante con calendario |
+| 06 | Historias (Stories) | Gestionar y crear Stories de Instagram |
+| 07 | Mensajes y Respuestas | Bandeja de entrada unificada y respuestas rápidas |
+| 08 | Analytics y Métricas | Entender e interpretar tus estadísticas |
+| 09 | Publicidad Básica | Primeros pasos con publicidad en Meta Ads |
+| 10 | Automatizaciones | Respuestas automáticas y atajos de eficiencia |
+| 11 | Resolución de Problemas | Solución a problemas comunes y errores frecuentes |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: Instalación y Configuración](./01-instalacion-configuracion.md) 💗
+- [Sección 02: Interfaz Principal](./02-interfaz-principal.md) 🌸
+- [Sección 03: Gestión de Cuentas](./03-gestion-cuentas.md) 🎀
+- [Sección 04: Crear Publicaciones](./04-crear-publicaciones.md) 💗
+- [Sección 05: Programar Contenido](./05-programar-contenido.md) 🌸
+- [Sección 06: Historias (Stories)](./06-historias-stories.md) 🎀
+- [Sección 07: Mensajes y Respuestas](./07-mensajes-respuestas.md) 💗
+- [Sección 08: Analytics y Métricas](./08-analytics-metricas.md) 🌸
+- [Sección 09: Publicidad Básica](./09-publicidad-basica.md) 🎀
+- [Sección 10: Automatizaciones](./10-automatizaciones.md) 💗
+- [Sección 11: Resolución de Problemas](./11-resolucion-problemas.md) 🌸
+
 ---
 
 ## 🗺️ Cómo Usar Esta Guía

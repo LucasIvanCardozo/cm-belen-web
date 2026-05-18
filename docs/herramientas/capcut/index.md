@@ -30,6 +30,34 @@ Para vos como CM de joyería, CapCut es indispensable porque te permite:
 | 09     | Plantillas y presets                 |
 | 10     | Tips específicos para joyería y lujo |
 
+## 📚 Contenido
+
+| Sección | Tema | Descripción |
+|---------|------|-------------|
+| 01 | Instalación y Configuración | Descarga, instalación y configuración inicial de CapCut |
+| 02 | Interfaz y Navegación | Conocer las herramientas del editor móvil |
+| 03 | Primer Proyecto de Video | Crear tu primer video desde cero |
+| 04 | Texto y Subttulos | Agregar texto, títulos y subtítulos automáticos |
+| 05 | Audio, Música y Efectos | Agregar música, efectos de sonido y голос |
+| 06 | Filtros y Colores | Corrección de color para joyería y productos de lujo |
+| 07 | Transiciones | Transiciones suaves y profesionales entre clips |
+| 08 | Exportar para Instagram | Configuración ideal para reels y stories |
+| 09 | Plantillas y Presets | Usar y crear plantillas reutilizables |
+| 10 | Tips para Joyería y Lujo | Consejos específicos para珠宝 y marcas premium |
+
+## ▶️ Navegación rápida
+
+- [Sección 01: Instalación y Configuración](./01-instalacion-y-configuracion.md) 🎀
+- [Sección 02: Interfaz y Navegación](./02-interfaz-y-navegacion.md) 💗
+- [Sección 03: Primer Proyecto de Video](./03-primer-proyecto-video.md) 🌸
+- [Sección 04: Texto y Subttulos](./04-texto-y-subtitulos.md) 🎀
+- [Sección 05: Audio, Música y Efectos](./05-audio-musica-efectos.md) 💗
+- [Sección 06: Filtros y Colores](./06-filtros-y-colores.md) 🌸
+- [Sección 07: Transiciones](./07-transiciones.md) 🎀
+- [Sección 08: Exportar para Instagram](./08-exportar-para-instagram.md) 💗
+- [Sección 09: Plantillas y Presets](./09-plantillas-y-presets.md) 🌸
+- [Sección 10: Tips para Joyería y Lujo](./10-tips-joyeria-lujo.md) 🎀
+
 **Tiempo estimado de lectura:** 2-3 horas
 **Tiempo para dominar lo básico:** 1 semana de práctica
 
